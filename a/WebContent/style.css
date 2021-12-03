@@ -1,0 +1,50 @@
+body{
+	background-color: #eba894;}
+
+
+
+header{
+	text-align: center
+}
+h1.titulo{
+	color: brown;
+}
+h1.titulo-carta{
+	color: brown;
+	text-align: center
+}
+h1.titulo-cafe{
+	color: brown;
+	text-align: center
+}
+h1.titulo-contactos{
+	color: brown;
+	text-align: center
+}
+h2.titulo-contactos{
+	color: brown;
+}
+img.img_carta{
+	width: 100px;
+	height: 100px;
+}
+img.img_contacto {
+	width: 100px;
+	height: 100px;
+}
+img.img_cafe{
+	width: 100px;
+	height: 100px;
+}
+p.contacto{
+	text-align: right;
+	color: #a84534;
+}
+p.cafe{
+	text-align: center;
+	color: #944234;
+}
+p.carta{ 
+	text-align: left;
+	color:#c05441;
+}
